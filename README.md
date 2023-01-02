@@ -1,4 +1,4 @@
-### Hi, I'm Kaveesha Madhusgani 👋
+### Hi, I'm Kaveesha Madhushani 👋
 [![@kaveesha's Holopin board](https://holopin.me/kaveesha)](https://holopin.io/@kaveesha)
 
 
