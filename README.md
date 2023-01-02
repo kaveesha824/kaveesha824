@@ -1,10 +1,9 @@
-### Hi, I'm Kaveesha 👋
+### Hi, I'm Kaveesha Madhusgani 👋
 [![@kaveesha's Holopin board](https://holopin.me/kaveesha)](https://holopin.io/@kaveesha)
 
 
 **kaveesha824/kaveesha824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
